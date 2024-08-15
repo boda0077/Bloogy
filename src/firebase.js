@@ -8,13 +8,13 @@ import { useEffect, useState } from "react";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: import.meta.env.VITE_API_KEY,
-  authDomain: import.meta.env.VITE_AUTH_DOMAIN,
-  projectId: import.meta.env.VITE_PROJECT_ID,
-  storageBucket: import.meta.env.VITE_STORAGE_BUCKET,
-  messagingSenderId: import.meta.env.VITE_MESSAGING_SENDER_ID,
-  appId: import.meta.env.VITE_APP_ID,
-  measurementId: import.meta.env.VITE_MEASUREMENT_ID,
+  apiKey: "AIzaSyCLyBD4oq_dH3nxW0MwdXZqS_ZpTAExBaE",
+  authDomain: "blog-platform-007.firebaseapp.com",
+  projectId: "blog-platform-007",
+  storageBucket: "blog-platform-007.appspot.com",
+  messagingSenderId: "1073231715409",
+  appId: "1:1073231715409:web:574a3db7b8fb2ce189ec70",
+  measurementId: "G-T6X57SWE5B",
 };
 
 // Initialize Firebase
