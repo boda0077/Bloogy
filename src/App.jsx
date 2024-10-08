@@ -63,7 +63,7 @@ function App() {
   }
 
   return (
-    <BrowserRouter basename="Bloogy">
+    <BrowserRouter>
       <Routes>
         <Route
           path="/"
